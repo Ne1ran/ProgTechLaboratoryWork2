@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBn7Nuyd0tE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neiran\\Desktop\\Variant13\\ProgrammingTechnologiesLaboratoryWork2\\ProgrammingTechnologiesLaboratoryWork2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neiran\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Neiran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Neiran\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Neiran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
